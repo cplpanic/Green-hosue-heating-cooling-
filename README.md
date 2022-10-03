@@ -25,5 +25,5 @@ This is just a best guess parts list and I'm honestly unsure on alot of the pric
 Again this might be something or nothing. Just came across these peltiers and thought they where cool and that something might be done with them – even if that’s a slow build of low temperature. 
 
 Decided to take the house version and shrink the space it needs to control down for better results. 
-This can be bad as simple or complex as you like from micro controllers, sensors to plug & play on a switch. 
+This can be as simple or complex as you like from micro controllers, sensors to plug & play on a switch. 
 
